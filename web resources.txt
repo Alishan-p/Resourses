@@ -1,0 +1,25 @@
+css clip path - https://bennettfeely.com/clippy/
+
+box-shadow - https://www.cssmatic.com/box-shadow
+
+tinypng - for resizing the png image size https://tinypng.com/
+
+iconmostr - free icons https://iconmonstr.com/
+
+illustrations - https://undraw.co/
+
+bounce.js - http://bouncejs.com/ for animation css
+
+https://www.remove.bg/ - remove bg form photo
+
+https://www10.lunapic.com/editor/?action=transparent - same as above
+
+https://www.freepik.com/ -- free illustration, vector and more
+
+https://colorable.jxnblk.com/ -- color picker
+
+https://coolors.co/ -- color pallate generator
+
+https://colorsinspo.com/ -- color pallate and tutorials
+
+https://colorhunt.co/ -- color pallate generator

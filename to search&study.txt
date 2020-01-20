@@ -1,0 +1,42 @@
+THINK
+Atomic design
+Component driven design
+
+BULID
+object oriented css ( oocss )
+smacss css 
+Bem architecture ( block element modifier )
+
+ARCHITECT ( logical folder and file structure )
+ITCSS Architecture
+smacss
+7-1 pattern
+
+learnign javascript
+
+1. Learn the basics stuff of JS[2:15]
+2. practice algorithm[3:07]
+3. take computer science course [6:16]
+4. Study from a book[8:38]
+5. Asynchronous JS and DOM[10:45]
+6. Build projects[11:58]
+7. Learn object-oriented programming(prototyping, inheritance)[12:11]
+8. Learn Functional programming (imp)(will help in redux, react)[13:06]
+9. Design patterns, learn MVC[13:55 ]
+10.Learn one Framework or library properly[15:10]
+
+javascript free advanced course mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+https://javascript.info/
+
+
+code challenge
+
+codeforces
+https://leetcode.com/
+codewars
+Codefights – Coding Challenge.
+Coderbyte.
+HackerRank.
+Geeks for Geeks.
+CodeChef.
+CodeEval.

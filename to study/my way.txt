@@ -1,0 +1,6 @@
+study the course from freecodecamp
+take the 30 javascript course
+study the scss ans css
+study the css ans javascipt animation
+study the angular framework
+study the particle animations

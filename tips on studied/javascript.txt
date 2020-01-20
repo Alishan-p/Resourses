@@ -1,0 +1,9 @@
+hoisting :
+ 	using the var and functions before declaring
+
+IIFE :
+ 	Immediatly Invoked Function Expression
+(function(){
+	console.log("iife");
+})();
+scope privacy

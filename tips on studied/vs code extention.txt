@@ -1,0 +1,6 @@
+auto rename tag: for automaticaly renaming the closing tag
+css peek : for seeing the css class and the ids styles
+live server : for craeting port and loading html in local server which reloads itself as saves 
+material theme : theme recommended by dev ed
+live sass compiler : for compiling the sass file automatically after saving the file
+prettier : for formating the various languvages

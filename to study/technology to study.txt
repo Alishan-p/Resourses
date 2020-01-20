@@ -1,0 +1,6 @@
+Typescipt
+Microservices
+graphql
+serverless
+web assembly
+web components

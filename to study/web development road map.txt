@@ -1,0 +1,70 @@
+https://www.youtube.com/watch?v=iogabydg2y0 from youtube channel
+
+front development 
+
+* CSS
+
+   1.Basic
+      positioning 
+      Box model
+      flexbox
+      grid
+      Custom properties
+
+   2.Responsive layout
+      Media queries
+      rem units
+      mobile first
+
+ 
+* JAVASCRIPT
+
+   1.Vanilla js
+      Data types
+      functions
+      conditionals
+      loops
+ 
+   2.Dom manipulation and events
+   3.Fetch api and json
+   4.ES6+ features
+      arrow functions
+      promises
+      async/await
+      destucturing
+      template strings
+
+* ANGULAR
+
+
+https://www.youtube.com/watch?v=9kl30htP1iw
+frontend Developer
+
+* Design fundamentals
+
+   # color & contrast
+   # White Space
+   # Visual Hirarchy
+   # Complexity vs Simplicity
+   # Consistency
+   # Scale
+
+* Design and prototyping
+
+  dont run before learning to walk
+  1. sketch
+  2. adobe xd
+  3. figma
+  4. invision
+  5. framer
+  6. gravit designer 
+
+* HTML and CSS 
+
+   html 5
+   css
+   scss
+
+* javascript
+
+* javascript liberary and framework

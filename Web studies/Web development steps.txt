@@ -1,0 +1,36 @@
+https://xbsoftware.com/blog/website-development-process-full-guide/
+
+step 1 : Information Gathering ( 1-2 weeks )
+	 - set goals for the website 
+	 - Define websites target audience
+
+step 2 : Planning ( 2-6 weeks)
+	 - Create a sitemap sketch
+	 - Create a wireframe/ mockup
+	 - Select technology stack
+	( programming language, frameworks, cms)
+
+step 3 : Design ( 4-12 weeks)
+	 - Create colorful page layouts
+	 - Review the layouts
+	 - Get clients feedback on the layouts
+	 - Change the layout when required
+
+step 4 : Content writing and assembly ( 5-15 week)
+	 - Create new content
+	 - Get content ready for migration 
+
+step 5 : Coding ( 6-15 weeks)
+	 - Build and deploy website
+	 - Add special features and interactivity
+	 - SEO for the website
+
+step 6 : Testing, Review and launch ( 2-4 weeks)
+	 - Test the created website
+	 - Upload the website to server
+	 - Final testing and launch
+
+step 7 : Maintenance
+	 - Add user report system 
+	 - Fix bugs asap 
+	 - keep website up-to-day

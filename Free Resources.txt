@@ -1,0 +1,11 @@
+PHOTO :
+ Pexels   - https://www.pexels.com/
+ Pixabay  - https://pixabay.com/
+ Unsplash - https://unsplash.com
+ wikimedia - https://commons.wikimedia.org/wiki/Main_Page
+
+COURSES : 
+ FCS - https://freecoursesite.us/
+ FTU - https://www.freetutorialseu.com/
+ FCL - https://freecourselab.com/
+  

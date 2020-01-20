@@ -1,0 +1,62 @@
+<div class="container-fluid">
+  <h1 class="text-center text-info display-4">PROFILE</h1>
+  <div class="row" style="padding-bottom: ">
+    <div class="col-3 bg-dark text-white py-4 d-flex align-items-center" style="height: 300px;">
+      <ul class="pl-0 justify-content-center">
+        <li>
+        </li>
+        <li *ngFor="let i of prof; index as h" (click)="selectedProfile(i)">
+          <h6>{{h+1}} . {{i.name | uppercase}}</h6>
+        </li>
+      </ul>
+    </div>
+
+    <div class="col">
+      <div *ngIf="selectedProfile">
+        <div class="card my-4">
+          <img src="{{selectedProfile.img}}" alt="" style="width:100%">
+          <h1>{{selectedProfile.name | uppercase}}</h1>
+          <p class="title">Admin No : {{selectedProfile.adminNo}}</p>
+          <p>DOB : {{selectedProfile.dob.day}}/ {{selectedProfile.dob.month}}/ {{selectedProfile.dob.year}}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+css
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+li {
+  list-style: none;
+}
+
+
+ts
+
+prof = PROFILES;
+    timer = 0;
+
+    selectedProfile: Profile;
+
+    onSelect(i: Profile): void {
+        this.selectedProfile = i;
+    }
+
+
+import { PROFILES } from '../demoProfiles';
+import { Profile } from 'selenium-webdriver/firefox';

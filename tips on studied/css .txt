@@ -1,0 +1,29 @@
+to fix the no width after the floating element ( clearfix method )
+  ::after{
+      content : "";
+      display : table;
+      clear : both;
+  }
+
+selector "[]"
+  eg : [class^ = "col-"] {
+      selects all the which starts with the col- naming;
+      class^ = with the start naming
+      class* = with contain the naming
+      class$ = end with the naming 
+  }
+
+
+Flexbox:
+	flex-basis: just like width expect flex
+	flex-grow : adjust the size with available space as ratio
+	flex-shrink : opposite of grow ( small width than it set with)
+	flex-flow : "direction" "wrap"
+	flex : "grow" "shrink" "flex-basis"
+	order : order of the set items
+
+
+
+
+   
+   
